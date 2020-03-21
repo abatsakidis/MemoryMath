@@ -2,8 +2,8 @@
 
 Memory Math – A Brain Training Game<br>
 <br>
-Το εκπαιδευτικό λογισμικό και η διδασκαλία των μαθηματικών.<br>
-Υλοποίηση εκπαιδευτικού παιχνιδιού για συσκευές Android στα πλαίσια διπλωματικής εργασίας για την ΑΣΠΑΙΤΕ.<br>
+Το εκπαιδευτικό λογισμικό και η διδασκαλία των μαθηματικών.<br><br>
+Υλοποίηση εκπαιδευτικού παιχνιδιού για συσκευές Android στα πλαίσια διπλωματικής εργασίας για την ΑΣΠΑΙΤΕ.<br><br>
 Είναι ένα εκπαιδευτικό παιχνίδι για εξάσκηση των δύο μαθηματικών πράξεων (πρόσθεση και αφαίρεση) για φορητές συσκευές λειτουργικού συστήματος Android για χρήση από παιδιά δημοτικού. Το εκπαιδευτικό λογισμικό σχεδιάστηκε και δημιουργήθηκε σε περιβάλλον Eclipse με την γλώσσα προγραμματιμού Java.<br>
 
 ## How To ##
@@ -13,9 +13,9 @@ Memory Math – A Brain Training Game<br>
 ## Screenshot
 
 ![Alt text](/Screenshots/screen1.jpg?raw=true "memorymath")
-![Alt text](/Screenshots/screen2.jpg?raw=true "memorymath")
-![Alt text](/Screenshots/screen3.jpg?raw=true "memorymath")
-![Alt text](/Screenshots/screen4.jpg?raw=true "memorymath")
+![Alt text](/Screenshots/screen2.png?raw=true "memorymath")
+![Alt text](/Screenshots/screen3.png?raw=true "memorymath")
+![Alt text](/Screenshots/screen4.png?raw=true "memorymath")
 
 ## Tested on ##
 
